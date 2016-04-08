@@ -1,0 +1,17 @@
+{
+  "name": "acos-kelmu-editor",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "acos-kelmu": "^0.1.0"
+  },
+  "author": "Teemu Sirkiä",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acos-server/acos-kelmu-editor.git"
+  }
+}
